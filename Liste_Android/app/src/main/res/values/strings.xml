@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Liste Android</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Planete">
+        <item>mars</item>
+        <item>jupiter</item>
+        <item>harvest</item>
+        <item>reach</item>
+        <item>arcadia</item>
+    </string-array>
+
+</resources>
